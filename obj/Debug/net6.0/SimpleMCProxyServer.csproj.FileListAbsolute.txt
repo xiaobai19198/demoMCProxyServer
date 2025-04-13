@@ -1,0 +1,17 @@
+/home/ubuntu/SimpleMCProxyServer/bin/Debug/net6.0/SimpleMCProxyServer
+/home/ubuntu/SimpleMCProxyServer/bin/Debug/net6.0/SimpleMCProxyServer.deps.json
+/home/ubuntu/SimpleMCProxyServer/bin/Debug/net6.0/SimpleMCProxyServer.runtimeconfig.json
+/home/ubuntu/SimpleMCProxyServer/bin/Debug/net6.0/SimpleMCProxyServer.dll
+/home/ubuntu/SimpleMCProxyServer/bin/Debug/net6.0/ref/SimpleMCProxyServer.dll
+/home/ubuntu/SimpleMCProxyServer/bin/Debug/net6.0/SimpleMCProxyServer.pdb
+/home/ubuntu/SimpleMCProxyServer/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/home/ubuntu/SimpleMCProxyServer/obj/Debug/net6.0/SimpleMCProxyServer.csproj.AssemblyReference.cache
+/home/ubuntu/SimpleMCProxyServer/obj/Debug/net6.0/SimpleMCProxyServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/SimpleMCProxyServer/obj/Debug/net6.0/SimpleMCProxyServer.AssemblyInfoInputs.cache
+/home/ubuntu/SimpleMCProxyServer/obj/Debug/net6.0/SimpleMCProxyServer.AssemblyInfo.cs
+/home/ubuntu/SimpleMCProxyServer/obj/Debug/net6.0/SimpleMCProxyServer.csproj.CoreCompileInputs.cache
+/home/ubuntu/SimpleMCProxyServer/obj/Debug/net6.0/SimpleMCProxyServer.csproj.CopyComplete
+/home/ubuntu/SimpleMCProxyServer/obj/Debug/net6.0/SimpleMCProxyServer.dll
+/home/ubuntu/SimpleMCProxyServer/obj/Debug/net6.0/ref/SimpleMCProxyServer.dll
+/home/ubuntu/SimpleMCProxyServer/obj/Debug/net6.0/SimpleMCProxyServer.pdb
+/home/ubuntu/SimpleMCProxyServer/obj/Debug/net6.0/SimpleMCProxyServer.genruntimeconfig.cache

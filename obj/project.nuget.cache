@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HcmMgGzgKS6p19SIkeVNlP8D+oywPedg1W8CHgORxfCX97vjDs+wwOXdCcFSaXfetxr+D1TxjHwGrJ8p+fiNZg==",
+  "success": true,
+  "projectFilePath": "/home/ubuntu/SimpleMCProxyServer/SimpleMCProxyServer.csproj",
+  "expectedPackageFiles": [
+    "/home/ubuntu/.nuget/packages/bouncycastle.netcore/2.2.1/bouncycastle.netcore.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
